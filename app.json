@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "JobApp",
+    "slug": "JobApp",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "b4e9da81-af59-4957-b27f-c30d6caf8834"
+      }
+    },
+    "android": {
+      "package": "com.rudra016.JobApp"
+    }
+  }
+}
