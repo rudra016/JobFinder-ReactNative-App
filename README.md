@@ -11,13 +11,12 @@ Effortlessly explore a vast array of job opportunities using the JSearch API fro
 
 
 ## 🚀 Features
--JSearch API Integration
--Effortless Job Discovery
--In-App Applications
--User-Friendly Interface
--Real-Time Updates
--Responsive
-
+-JSearch API Integration <br>
+-Effortless Job Discovery <br>
+-In-App Applications <br>
+-User-Friendly Interface <br>
+-Real-Time Updates <br>
+-Responsive <br>
 
 <h2>📬 Contact</h2>
 
